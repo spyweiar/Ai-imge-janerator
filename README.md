@@ -33,3 +33,5 @@ Open the 'index.html' file in your web browser.
 4. The generated images will be displayed on the web page.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+![Untitled](https://github.com/spyweiar/Ai-imge-janerator/assets/131190203/9ca3573c-eb06-4543-93f2-8092f589636c)
+![3](https://github.com/spyweiar/Ai-imge-janerator/assets/131190203/4e106543-ec33-4e45-868e-2acf5b00a010)
